@@ -1,0 +1,2 @@
+"# cotizador-prestamos-react" 
+Cotizador creado de prestamos en moneda colombiana desarrollado react usando useState y useEfect, sencillo y facil de replicar, Agradecimiento a Juan de ala Torre por su conocimiento y forma de enseñar.
